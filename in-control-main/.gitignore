@@ -1,0 +1,18 @@
+Library/
+Temp/
+Logs/
+Obj/
+.vs/
+
+# Unity specific files
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.tmp
+*.bak
+*.orig
+*.swp
+
+Build/ 
